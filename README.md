@@ -1,5 +1,7 @@
 # Banking End-to-End Data Analysis Project
 
+> **Note:** This project was built while following a YouTube tutorial to practice and learn SQL and data analysis concepts. The goal was to understand the concepts and apply them. Any modifications or experiments I made are my own.
+
 ## Project Description
 Analyzing a banking dataset in a MySQL database using Python to uncover trends in customer loans and deposits, and creating interactive Power BI dashboards for **loan analysis**, **deposit analysis**, and an overall **summary view** to visualize key insights effectively.
 
