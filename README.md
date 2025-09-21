@@ -6,7 +6,7 @@
 Analyzing a banking dataset in a MySQL database using Python to uncover trends in customer loans and deposits, and creating interactive Power BI dashboards for **loan analysis**, **deposit analysis**, and an overall **summary view** to visualize key insights effectively.
 
 ## Features
-- Connects a banking dataset from MySQL to Python for **exploratory data analysis (EDA)**
+- Connects the banking dataset from MySQL to Python for **exploratory data analysis (EDA)**
 - Identifies key trends in **loans, deposits, and customer behavior**
 - Creates interactive **Power BI dashboards** to visualize insights
 - Includes **loan analysis**, **deposit analysis**, and an **overall summary view**
