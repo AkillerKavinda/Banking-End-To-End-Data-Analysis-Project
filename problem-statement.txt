@@ -1,3 +1,4 @@
 Problem Statement
 
-Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+Analyze the banking dataset to explore trends in customer loans and deposits, and create interactive dashboards to visualize key insights, helping understand customer behavior and financial patterns.
+
